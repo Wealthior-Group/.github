@@ -1,54 +1,58 @@
 # Wealthior Group
 
-**Wealthior Group** is a Swiss holding that builds, operates, and invests in modern digital businesses.  
-Our focus is long term value creation through disciplined execution, strong brands, and scalable systems.
+**Wealthior Group GmbH** is a Swiss holding company based in Zug.
+We build, operate, and grow specialized brands across tech, commerce, travel, and media.
 
-## What we do
+Focused growth. Building brands. Creating value.
 
-Wealthior Group brings together multiple business units under one umbrella. Across all units we prioritize:
+## What We Do
+
+Wealthior Group brings together multiple business units under one roof — each with its own focus, all with the same commitment to quality. Across all units we prioritize:
 
 - Clear positioning and premium brand presence
-- High quality delivery and measurable outcomes
+- High-quality delivery and measurable outcomes
 - Lean operations, automation, and repeatable processes
-- Long term thinking and sustainable growth
+- Long-term thinking and sustainable growth
 
-## Business units
+## Business Units
 
-Our portfolio includes the following units (scope may evolve over time):
+### Core
 
-- **Wealthior Labs**  
-  AI automation, AI agents, modern web apps, integrations, and premium B2B consulting.
+- **[Wealthior Labs](https://wealthior-group.ch/en/labs)**
+  Web applications, AI integrations, chatbots, workflow automations, and AI coaching.
+  Directly from the developer, remote worldwide, no agency overhead.
 
-- **Wealthior Travel**  
-  Travel content, guides, partnerships, and experiences built around real journeys and storytelling.
+### Portfolio
 
-- **Wealthior Real Estate**  
-  Acquisition and operation of real estate assets with a focus on robust cashflow and long term value.
+- **[Wealthior Selection](https://wealthior-group.ch/en/selection)**
+  Curated goods and commerce.
 
-- **Wealthior Media**  
-  Content production and brand media, optimized for social platforms and modern distribution.
+- **[Wealthior Travel](https://wealthior-group.ch/en/travel)**
+  Travel content, guides, and experiences built around real journeys.
 
-- **Wealthior Web3**  
-  Experiments and products in digital ownership, communities, and emerging internet primitives.
+- **[Wealthior Media](https://wealthior-group.ch/en/media)**
+  Content production and brand media for modern platforms.
 
-- **Wealthior Ventures**  
-  Select participations and investments aligned with our strategic direction.
+- **[Wealthior RealEstate](https://wealthior-group.ch/en/realestate)**
+  Real estate investments with a focus on long-term value.
 
-- **Ettlin Web AI**  
-  Partner led unit focused on AI agents and AI landing pages.
+- **[Wealthior Ventures](https://wealthior-group.ch/en/ventures)**
+  Select investments and participations aligned with our strategic direction.
 
-## Our approach
+## Our Approach
 
-- **Build**: create products and services that solve real problems
-- **Operate**: turn ideas into systems that scale
-- **Invest**: deploy capital into assets and ventures with asymmetric upside
-- **Brand**: craft a coherent identity across all units, with a premium, mythology inspired aesthetic
+- **Build** — Create products and services that solve real problems.
+- **Operate** — Turn ideas into systems that run and scale.
+- **Invest** — Deploy capital into assets and ventures with long-term upside.
 
 ## Contact
 
-For partnerships, client work, or investment related inquiries:
+For projects, partnerships, or general inquiries:
 
-- Email: `info@wealthior-group.ch` (replace with your real email)
+- 📧 info@wealthior-group.ch
+- 🌐 [wealthior-group.ch](https://wealthior-group.ch)
+- 💼 [LinkedIn](https://www.linkedin.com/company/wealthior-group)
 
 ---
-© Wealthior Group LLC. All rights reserved.
+
+© Wealthior Group GmbH, Zug, Switzerland. All rights reserved.
